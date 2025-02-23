@@ -6,7 +6,8 @@ With this in mind, we pentesters deal with shells all the time and to automate a
 
 I still have a lot to work on this project and I leave here some of my ideas not in order. To do:
 
-1 - Add listener when shell is generated\n2 - Animation on points
+1 - Add listener when shell is generated
+2 - Animation on points
 3 - Add more payloads, Windows is a priority 
 4 - Powershell base64 is a priority
 
